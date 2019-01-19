@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 test-branch-v1
 =======
 testfenzhi
@@ -7,3 +8,6 @@ testfenzhi
 =======
 testfenzhiv-1
 >>>>>>> d69e18a... fenzhi
+=======
+test-branch-v1
+>>>>>>> 2832710... 版本1
